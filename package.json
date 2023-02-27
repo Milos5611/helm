@@ -3,10 +3,10 @@
   "version": "1.7.1",
   "main": "index.js",
   "license": "MIT",
-  "homepage": "https://github.com/glopezep/helm",
+  "homepage": "https://github.com/Milos5611/helm",
   "author": {
-    "name": "glopezep",
-    "url": "https://github.com/glopezep"
+    "name": "Milos5611",
+    "url": "https://github.com/Milos5611"
   },
   "dependencies": {
     "@actions/core": "^1.2.6",
